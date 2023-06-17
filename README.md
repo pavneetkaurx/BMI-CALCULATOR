@@ -1,1 +1,2 @@
-# WEB-DEVELOPMENT-PROJECTS
+BMI-Calculator with JavaScript
+Basic Web Developement Project
